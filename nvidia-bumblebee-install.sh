@@ -1,8 +1,9 @@
+#!/bin/bash
 ##################################################
-#2019-03-18					                     #
-#Install Nvidia Bumblebee Drivers for Arch Linux #
-#Tested with Arch Linux, Arco Linux,Antergos     #
-#                                                #
+# Author 	: 	topf82
+# Date:       2019-03-18					                     
+# Install Nvidia Bumblebee Drivers for Arch Linux 
+# Tested with Arch Linux, Arco Linux,Antergos                                                   
 ##################################################
 
 #Install needed Packages
